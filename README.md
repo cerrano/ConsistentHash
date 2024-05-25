@@ -1,0 +1,2 @@
+# ConsistentHash
+透過ChatGPT產生的一致性hash類別
